@@ -20,12 +20,12 @@ Forgot Password: Users can recover their login details by verifying their phone 
 Score Tracking: Users can view their scores after completing the quiz.<br>
 Technical Details:
 Programming Language: Python<br>
-Data Structures Used:<br>
+Data Structures Used:<br><br>
 Dictionaries: For storing user data and scores.<br>
 Lists: For managing passwords and usernames.<br>
-Control Flow:<br>
+Control Flow:<br><br>
 Conditional Statements: For verifying user input and handling different scenarios (e.g., incorrect passwords, registration conflicts).<br>
-Loops: For maintaining the application flow and enabling continuous interaction.<br>
+Loops: For maintaining the application flow and enabling continuous interaction.<br><br><br>
 This project demonstrates my ability to create a user-friendly application with essential features such as secure authentication and interactive testing. It’s been a great way to apply my skills in Python and develop a practical solution for managing quizzes and user data.
 <br>
 Feel free to check out the code and let me know your feedback!<br>
